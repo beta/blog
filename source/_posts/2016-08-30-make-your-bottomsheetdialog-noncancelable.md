@@ -80,7 +80,7 @@ private BottomSheetBehavior.BottomSheetCallback mBottomSheetCallback
 Luckily, neither do we need to overwrite the callback instance, nor we has to try to remove the callback. BottomSheetBehavior provides a convenient method for us, which is `BottomSheetBehavior#setHideable`. To call this method you need to first pass a View object with the `bottom_sheet_behavior` attribute using method `BottomSheetBehavior#from`.
 
 ```java
-View bottomSheetView = getDialog().getWindow().getDecorView().findViewById(android.support.design.R.id.design\_bottom\_sheet);
+View bottomSheetView = getDialog().getWindow().getDecorView().findViewById(android.support.design.R.id.design_bottom_sheet);
 BottomSheetBehavior.from(bottomSheetView).setHideable(false);
 ```
 
