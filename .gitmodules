@@ -1,0 +1,3 @@
+[submodule "themes/wasabi"]
+	path = themes/wasabi
+	url = git@github.com:beta/wasabi.git
