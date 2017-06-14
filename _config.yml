@@ -79,3 +79,5 @@ deploy:
   repo: https://github.com/beta/beta.github.io.git
   branch: master
 
+# Disqus
+disqus_shortname: betakuang
