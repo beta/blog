@@ -62,6 +62,13 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
+plugin:
+- hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  content: true
 ## Themes: http://hexo.io/themes/
 theme: wasabi
 
@@ -69,6 +76,6 @@ theme: wasabi
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:beta/beta.github.io.git
+  repo: https://github.com/beta/beta.github.io.git
   branch: master
 
