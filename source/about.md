@@ -10,3 +10,5 @@ Anime lover, favorite character being Satone Shichimiya.
 Video game lover, especially ARPG games. I play games on PC, PlayStation 4 and Nintendo Switch.
 
 I love matcha and vanilla.
+
+You can find more about me on my [Twitter](https://twitter.com/betakuang) and [Instagram](https://instagram.com/betakuang). Feel free to contact me with email (beta.kuang#gmail.com) and [Telegram](https://t.me/betakuang).
