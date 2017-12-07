@@ -16,10 +16,7 @@ tags:
 
  - Generator 是一种 collection，但相比于 list，generator 并不会将所有元素一次性存入内存，而是按需创建每一个元素。因此 `len(generator)` 会报错，而且 generator 只能被遍历一次。内置函数 `next` 返回 generator 中的下一个元素，当 generator 遍历至末尾时，`next` 抛出 `StopIteration` 异常。
  - 创建 generator 的 list comprehension：
-   ```python
-   squared_gen = (x**2 for x in range(5))
-   type(squared_gen) # generator
-   ```
+   <script src="https://gist.github.com/beta/d21dc6ed4eaa4c49d8cb1b5a5eadb210.js"></script>
  - 在函数中使用 `yield` 关键字代替 `return`，可以让函数返回 generator。对于 generator 函数，`next` 使其停在下一个 `yield` 处并返回被 yield 的值。
  - 如果程序中包含巨大的列表，并且不需要反复遍历，那么适合使用 `yield` 生成 generator 来降低内存使用量。
 
