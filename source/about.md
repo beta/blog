@@ -6,7 +6,7 @@ My name is Beta Kuang. Born in 1995.
 
 - - -
 
-MEng in Software Engineering in BUPT. Currently a software developer in Ericsson writing C++ code that runs on radio devices all over the world. I also play with Java (Android apps), Dart and Python.
+BEng in Software Engineering in BUPT. Currently a software developer in Ericsson writing C++ code that runs on radio devices all over the world. I also play with Java (Android apps), Dart and Python.
 
  - GitHub: [@beta](https://github.com/beta)
 
