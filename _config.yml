@@ -39,7 +39,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: false
 
@@ -76,7 +76,7 @@ theme: wasabi
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/beta/beta.github.io.git
+  repo: git@github.com:beta/beta.github.io.git
   branch: master
 
 # Disqus
