@@ -93,6 +93,8 @@ You are connected to database "<your Unix account>" as user "<your Unix account>
 
 By default PostgreSQL uses `peer` authentication for connections through Unix socket file, and `ident` for local TCP/IP connections. This can be modified by editing `/var/lib/pgsql/data/pg_hba.conf`.
 
+**Update (Mar 23, 2018)**: The path to `pg_hba.conf` may vary. You can ask PostgreSQL for the real path with `SHOW hba_file;`.
+
 The default options are around the end of the file:
 
 ```
