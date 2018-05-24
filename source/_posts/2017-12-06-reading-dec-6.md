@@ -1,7 +1,7 @@
 title: "阅读：十二月 6 日"
 date: 2017-12-06 21:07:32
 tags:
-- 阅读
+- Reading
 - Python
 - Django
 ---

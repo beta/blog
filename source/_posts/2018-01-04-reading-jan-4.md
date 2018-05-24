@@ -1,10 +1,10 @@
 title: "阅读：一月 4 日"
 date: 2018-01-04 14:51:30
 tags:
-- 阅读
+- Reading
 - Go
 - Android
-- 软件工程
+- Software Engineering
 ---
 
 ## The ultimate guide to writing a Go tool

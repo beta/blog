@@ -1,5 +1,7 @@
 title: "Android 实现心跳动画"
 date:  2015-11-30 12:00:00
+tags:
+- Android
 ---
 ## 踩到巨坑
 

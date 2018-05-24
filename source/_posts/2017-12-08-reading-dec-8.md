@@ -1,11 +1,11 @@
 title: "阅读：十二月 8 日"
 date: 2017-12-08 19:54:58
 tags:
-- 阅读
+- Reading
 - Python
-- 创业
+- Startup
 - Android
-- 字体
+- Fonts
 ---
 
 ## How — and why — you should use Python Generators

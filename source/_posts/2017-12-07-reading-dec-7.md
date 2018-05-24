@@ -1,9 +1,9 @@
 title: "阅读：十二月 7 日"
 date: 2017-12-07 20:02:01
 tags:
-- 阅读
+- Reading
 - SSH
-- 软件工程
+- Software Engineering
 - Android
 ---
 
