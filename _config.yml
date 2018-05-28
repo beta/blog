@@ -12,8 +12,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://kyouko.net
-root: /
+url: https://betakuang.me/blog
+root: /blog/
 permalink: post/:year-:month-:day-:title.html
 permalink_defaults:
 
@@ -76,8 +76,8 @@ theme: wasabi
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:beta/beta.github.io.git
-  branch: master
+  repo: git@github.com:beta/blog.git
+  branch: gh-pages
 
 # Disqus
 disqus_shortname: betakuang
