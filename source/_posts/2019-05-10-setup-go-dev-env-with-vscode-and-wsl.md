@@ -8,7 +8,7 @@ tags:
 ---
 I've got a Surface Book 2 but it hasn't been used too much for programming. Due to the lacking of things like POSIX APIs and command-line utils, web development in Windows does not come as easy as the Unix world, and some workflows of my Apple-user colleagues are impossible to achieve on Windows. So I have to use my five-year-old MacBook Pro at work, but it's getting really old and slow these days.
 
-Recently Microsoft [publishes](https://code.visualstudio.com/blogs/2019/05/02/remote-development) a [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for VS Code, which allows remote development via SSH, containers and WSL. So I'm considering if these new tools can offer me a better development experience on Windows. And I made some experiments and found them quite usable.
+Recently Microsoft [published](https://code.visualstudio.com/blogs/2019/05/02/remote-development) a [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for VS Code, which allows remote development via SSH, containers and WSL. So I'm considering if these new tools can offer me a better development experience on Windows. And I made some experiments and found them quite usable.
 
 Here are some notes on how to setup a web development environment for Go with WSL (Windows Subsystem for Linux).
 
