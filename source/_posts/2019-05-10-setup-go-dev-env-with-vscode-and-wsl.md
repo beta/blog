@@ -21,13 +21,13 @@ Here are some notes on how to setup a web development environment for Go with WS
 
 #### Enable WSL Feature
 
-First of all, the WSL feature should be turned on. Open the Start Menu, search for and open "**Turn Windows features on or off**". Enable "**Windows Subsystem for Linux**" and click **OK**. The system may reboot several times.
+First of all, the WSL feature should be turned on. Open the Start Menu, search for and open **"Turn Windows features on or off"**. Enable **"Windows Subsystem for Linux"** and click **OK**. The system may reboot several times.
 
 ![Windows Features dialog](https://i.imgur.com/yBcuoXG.png)
 
 #### Install WSL Distro
 
-After the reboot is finished, open Microsoft Store and search for "**Linux**". You should see a big banner with a "**Get the apps**" button on it. Click it. Then you will see all the Linux distros that are supported to run with WSL. Select the one that you are most familiar with or you love, then install it.
+After the reboot is finished, open Microsoft Store and search for **"Linux"**. You should see a big banner with a **"Get the apps"** button on it. Click it. Then you will see all the Linux distros that are supported to run with WSL. Select the one that you are most familiar with or you love, then install it.
 
 I'm using Ubuntu 18.04 LTS as I've used it for the most.
 
@@ -82,7 +82,7 @@ Setup up VS Code is easy. First, install the remote dev extension. If you only u
 
 #### Enter Remote Dev Environment
 
-After the remote extension is installed, you will see a colored button in the left-bottom corner of VS Code, named "Open a remote window". Click it and select "**Remote-WSL: New Window**" to open a window with remote environment enabled. Some setup work will be done now and you should see the progress in the right-bottom corner.
+After the remote extension is installed, you will see a colored button in the left-bottom corner of VS Code, named "Open a remote window". Click it and select **"Remote-WSL: New Window"** to open a window with remote environment enabled. Some setup work will be done now and you should see the progress in the right-bottom corner.
 
 #### Setup the Go Extension
 
@@ -90,7 +90,7 @@ Then you need to setup the [Go extension](https://marketplace.visualstudio.com/i
 
 ![Remote environment in VS Code](https://code.visualstudio.com/assets/blogs/2019/05/02/remote-environment.png)
 
-If you are a new user of the Go extension, it will be installed remotely automatically in the remote env. Or if you have installed it locally before, you will see a "**Install on WSL**" button on the Go extension. Click it to make it available in the remote env, and you should be prompted to reload the window.
+If you are a new user of the Go extension, it will be installed remotely automatically in the remote env. Or if you have installed it locally before, you will see a **"Install on WSL"** button on the Go extension. Click it to make it available in the remote env, and you should be prompted to reload the window.
 
 ![Install extension on WSL](https://imgur.com/s6rAAmf.png)
 
@@ -100,7 +100,7 @@ Go tools must be installed to use the functionalities of the extension. Use the 
 
 #### Configure the remote Go extension
 
-The Go extension should be re-configured remotely to work properly. Open the VS Code settings, you will see a new "**Remote (WSL)**" tab on the top. Config the Go extension here.
+The Go extension should be re-configured remotely to work properly. Open the VS Code settings, you will see a new **"Remote (WSL)"** tab on the top. Config the Go extension here.
 
 Or you can edit the JSON config file directly. Normally it's located in the WSL at "`/home/<name>/.vscode-remote/data/Machine/settings.json`".
 
