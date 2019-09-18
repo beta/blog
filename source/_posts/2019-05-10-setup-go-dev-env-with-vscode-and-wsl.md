@@ -45,7 +45,7 @@ I've tried some alternatives like [Cmder](https://cmder.net/) (which uses [ConEm
 
 However, as Terminus's made with Electron and it renders with GPU, it's a bit more energy-hungry than the traditional native terminal emulators. There's a [list of terminals that work well with WSL](https://github.com/sirredbeard/Awesome-WSL#terminals). You can select any one you like.
 
-If your terminal cannot locate the home dir of the Linux distro (often it's in something like "`/mnt/c/Users/<name>`/"), a simple workaround is to use "`C:\WINDOWS\system32\wsl.exe ~`" as your custom shell. The trailing "`~`" gets you to the home dir. ([*Source*](https://github.com/microsoft/WSL/issues/1346))
+If your terminal cannot locate the home dir of the Linux distro (often it's in something like `/mnt/c/Users/<name>/`), a simple workaround is to use `C:\WINDOWS\system32\wsl.exe ~` as your custom shell. The trailing `~` gets you to the home dir. ([*Source*](https://github.com/microsoft/WSL/issues/1346))
 
 ## 2. Install Go in WSL
 
@@ -96,13 +96,13 @@ If you are a new user of the Go extension, it will be installed remotely automat
 
 #### Install Go Tools
 
-Go tools must be installed to use the functionalities of the extension. Use the "**Go: Install/Update Tools**" command in VS Code, or open the WSL shell and install manually following [the guide](https://github.com/Microsoft/vscode-go/wiki/Go-tools-that-the-Go-extension-depends-on).
+Go tools must be installed to use the functionalities of the extension. Use the **"Go: Install/Update Tools"** command in VS Code, or open the WSL shell and install manually following [the guide](https://github.com/Microsoft/vscode-go/wiki/Go-tools-that-the-Go-extension-depends-on).
 
 #### Configure the remote Go extension
 
 The Go extension should be re-configured remotely to work properly. Open the VS Code settings, you will see a new **"Remote (WSL)"** tab on the top. Config the Go extension here.
 
-Or you can edit the JSON config file directly. Normally it's located in the WSL at "`/home/<name>/.vscode-remote/data/Machine/settings.json`".
+Or you can edit the JSON config file directly. Normally it's located in the WSL at `/home/<name>/.vscode-remote/data/Machine/settings.json`.
 
 **Important:** `GOPATH` and `GOROOT` must be set for the remote Go extension, as it does not know where to read the environment variables you've set in your shell configs.
 
@@ -128,4 +128,4 @@ Now you've setup a fully working Go development environment with VS Code and WSL
 
 ## 3. FAQ
 
-**(Why are my Go extension configs not working?)** If you set something in the remote configs, for example changing the format tool, but it's not working, check if there is a workspace config file and a different value is set there. Workspace configs will shadow the others.
+**I change the configs of my Go extension, but they are not working. Why?** If you set something in the remote configs, for example changing the format tool, but it's not working, check if there is a workspace config file and a different value is set there. Workspace configs will shadow the others.
