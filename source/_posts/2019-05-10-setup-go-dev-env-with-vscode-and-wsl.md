@@ -78,7 +78,7 @@ export PATH="$PATH:/usr/local/go/bin:$GOPATH/bin"
 
 #### Install the Remote Development Extension
 
-Setup up VS Code is easy. First, install the remote dev extension. If you only uses WSL, the [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension is all you need. Otherwise you may consider the full [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+Setting up VS Code is easy. First, install the remote dev extension. If you only uses WSL, the [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension is all you need. Otherwise you may consider the full [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
 
 #### Enter Remote Dev Environment
 

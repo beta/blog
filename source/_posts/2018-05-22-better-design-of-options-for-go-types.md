@@ -20,7 +20,7 @@ In this way the user can modify the verbosity as will.
 logger.Verbosity = 1
 ```
 
-This is the easiest and most flexible way, but also the most dangerous and clumsy way. You lose all control of the value set by the user, and you will not be notified if the option is changed.
+This is the easiest way to implement an option. However, you will lose all control of the value set by the user, and you will not be notified if the option is changed.
 
 A better way to provide the options is to use setter functions, which is really popular in Java.
 
