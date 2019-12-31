@@ -19,7 +19,7 @@ I play games of all genres, from FPS and ARPG to MOBA and MMORPG.
 
 - Steam ID: [betakuang](https://steamcommunity.com/id/betakuang)
 - Battle.net (China): beta#51196
-- PSN ID: Emiko777
+- PSN ID: betakuang
 - NS Friend Code: `SW-6012-2386-6141`
 
 - - -
