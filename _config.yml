@@ -12,8 +12,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://betakuang.me/blog
-root: /blog/
+url: https://betakuang.me
+root: /
 permalink: post/:year-:month-:day-:title.html
 permalink_defaults:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 plugin:
-- hexo-generator-feed
+  - hexo-generator-feed
 feed:
   type: atom
   path: atom.xml
@@ -75,9 +75,7 @@ theme: wasabi
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:beta/blog.git
-  branch: gh-pages
+  type: ""
 
 # Disqus
 disqus_shortname: betakuang
