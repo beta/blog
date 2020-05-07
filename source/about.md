@@ -2,26 +2,43 @@ title: "About"
 date:  2017-03-18 16:31:00
 ---
 
-My name is **Beta Kuang**. I write web servers in Go for food, and interesting stuff in Python, JavaScript, TypeScript and other languages for fun. I enjoy creating elegant apps for both desktop and web.
+# Beta Kuang
+
+正在努力成为独立开发者。兴趣和能力包括：
+
+- 使用 Python 和 Qt（PySide）开发跨平台桌面应用
+- 使用 JavaScript、Vue 和 React 框架开发 web 应用以及基于 Electron 的桌面应用
+- 使用 Go 开发 web 服务器
+
+此外，我还拥有 Android 原生应用的开发经验（基于 Java），以及使用 Flutter 和 React Native 开发跨平台移动应用的经验。
+
+目前在深圳生活。
+
+I am now working hard to become an indie software developer. I am interested and proficient in:
+
+- developing cross-platform desktop apps with Python and Qt (PySide),
+- developing web apps with JavaScript, Vue and React, as well as desktop apps with Electron, and
+- developing web servers with Go.
+
+Besides, I am also experienced in developing native Android apps with Java, and cross-platform mobile apps with Flutter and React Native.
 
 Currently I live in Shenzhen, China.
 
-## Contact Me
+## 社交媒体 / Social Profiles
 
-- Email: `beta.kuang#gmail.com`
-- Telegram: [@betakuang](https://t.me/betakuang)
-- Twitter: [@betakuang](https://twitter.com/betakuang)
+你可以在以下社交和游戏平台上联系我。
+
+You can find me on the social and gaming platforms listed below.
+
 - GitHub: [@beta](https://github.com/beta)
-
-## Gaming Profiles
-
-I play games of all genres, from FPS and ARPG to MOBA and MMORPG.
-
+- Twitter: [@betakuang](https://twitter.com/betakuang)
 - Steam ID: [betakuang](https://steamcommunity.com/id/betakuang)
 - Battle.net (China): beta#51196
 - PSN ID: betakuang
 - NS Friend Code: `SW-6012-2386-6141`
 
-- - -
+## 联系方式 / Contact Me
 
-Code + music ≈ life.
+- Email: `beta.kuang#gmail.com`
+- Telegram: [@betakuang](https://t.me/betakuang)
+- WeChat: betakuang
