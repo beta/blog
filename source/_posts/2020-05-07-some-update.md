@@ -15,9 +15,9 @@ tags:
 
 最近买了一些小玩意。为了<del>缓解</del>预防腕管综合征，从闲鱼上二手收了一个微软的 [Sculpt Ergonomic 无线键盘](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)，用了几天发现手腕的压力的确小了不少，但是毕竟是薄膜键盘，手指关节的压力反而增大了，所以只能在 Sculpt Ergonomic 和机械键盘之间来回切换。被学弟安利了 [Ergodox](https://www.ergodox.io/) 键盘，价格很感人（不带键帽 + 附件就要 $290，一整套下来 $354），还是等哪天一夜暴富了再买吧。
 
-五一假期入手了大疆的 Osmo Mobile 3（再次赞美拼多多），一个手机云台，本来想着假期要出去拍点东西<del>还专门为此买了手机摄影教材和[视频编辑软件](https://store.steampowered.com/app/1182920/Movavi_Video_Editor_Plus_2020/)</del>，结果当然是懒懒不想出门。深圳最近很热，离开了空调我可能会死。
+五一假期入手了大疆的 Osmo Mobile 3（赞美拼多多），一个手机云台，本来想着假期要出去拍点东西<del>还专门为此买了手机摄影教材和[视频编辑软件](https://store.steampowered.com/app/1182920/Movavi_Video_Editor_Plus_2020/)</del>，结果当然是懒懒不想出门。深圳最近很热，离开了空调我可能会死。
 
-身体状况目前良好。幸好年前买了健身环大冒险（赞美拼多多），这段时间的 quarantine 全靠健身环补充运动量。不知道为什么用 quarantine 这个词会显得很厉害。
+身体状况目前良好。幸好年前买了健身环大冒险（再次赞美拼多多），这段时间的 quarantine 全靠健身环补充运动量。不知道为什么用 quarantine 这个词会显得很厉害。
 
 读书的话，<del>除了手机摄影教材之外</del>前几天在诚品生活看到一本西尾维新的处女作[《斩首循环》](https://book.douban.com/subject/34434339/)，回来从京东买了一本正在看，除了有点中二之外还不错。会觉得中二是不是说明我年纪大了。
 
