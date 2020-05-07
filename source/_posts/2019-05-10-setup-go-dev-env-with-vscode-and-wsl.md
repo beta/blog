@@ -23,7 +23,7 @@ Here are some notes on how to setup a web development environment for Go with WS
 
 First of all, the WSL feature should be turned on. Open the Start Menu, search for and open **"Turn Windows features on or off"**. Enable **"Windows Subsystem for Linux"** and click **OK**. The system may reboot several times.
 
-![Windows Features dialog](https://i.imgur.com/yBcuoXG.png)
+![Windows Features dialog](/images/2019-05-10-windows-features.png)
 
 #### Install WSL Distro
 
@@ -41,7 +41,7 @@ WSL uses Windows Console Host (conhost) by default. Search for your distro name 
 
 I've tried some alternatives like [Cmder](https://cmder.net/) (which uses [ConEmu](https://conemu.github.io/) under the surface), and [Hyper](https://hyper.is/) which is built with web technologies. Finally I selected [Terminus](https://eugeny.github.io/terminus/), for it has a clear UI with an easy-to-use settings (and it even supports acrylic background!).
 
-![Terminus](https://imgur.com/JLm8to1.png)
+![Terminus](/images/2019-05-10-terminus.png)
 
 However, as Terminus's made with Electron and it renders with GPU, it's a bit more energy-hungry than the traditional native terminal emulators. There's a [list of terminals that work well with WSL](https://github.com/sirredbeard/Awesome-WSL#terminals). You can select any one you like.
 
@@ -88,11 +88,11 @@ After the remote extension is installed, you will see a colored button in the le
 
 Then you need to setup the [Go extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) for the remote dev env. Here's something different if you are new to remote development in VS Code. The VS Code environment is divided into two parts with the remote dev extension installed, which are the local part and the remote part, both including its own extensions and tools. Some extensions, specifically workspace extensions (as opposed to UI extensions), should be installed remotely to use in remote development.
 
-![Remote environment in VS Code](https://code.visualstudio.com/assets/blogs/2019/05/02/remote-environment.png)
+![Remote environment in VS Code](/images/2019-05-10-vscode-remote-env.png)
 
 If you are a new user of the Go extension, it will be installed remotely automatically in the remote env. Or if you have installed it locally before, you will see a **"Install on WSL"** button on the Go extension. Click it to make it available in the remote env, and you should be prompted to reload the window.
 
-![Install extension on WSL](https://imgur.com/s6rAAmf.png)
+![Install extension on WSL](/images/2019-05-10-install-on-wsl.png)
 
 #### Install Go Tools
 
