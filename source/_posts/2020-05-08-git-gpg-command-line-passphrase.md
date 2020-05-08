@@ -8,7 +8,7 @@ tags:
 
 I'm using Git for Windows, and have configured it to sign every single commit and tag using GPG (GnuPG), which uses Pinentry, a program that allows for secure entry of PINs or passphrases.
 
-Every time when I commit my code, a Pinentry window will always popup and ask me for the passphrase to unlock my key. However, the window never gains focus, and I have to move my mouse and click on the input box to start typing, which is annoying me.
+Every time when I commit my code, a Pinentry window will always popup and ask me for the passphrase to unlock my key. However, the window never gains focus, and I have to move my mouse and click on the input box to start typing, which is quite annoying to me.
 
 ![A Pinentry window without focus](/images/2020-05-08-pinentry.png)
 <center><small>A Pinentry window without focus</small></center>
