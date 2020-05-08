@@ -63,20 +63,20 @@ Now let's see if it works.
 gpg-connect-agent reloadagent /bye
 ```
 
-2. Create a Bash script at `~/.gpg-pinentry-loopback` (or any path you like).
+3. Create a Bash script at `~/.gpg-pinentry-loopback` (or any path you like).
 
 ```bash
 #!/usr/bin/bash
 gpg --pinentry-mode loopback $@
 ```
 
-3. Grant execution permission to the script. Replace the path with your own.
+4. Grant execution permission to the script. Replace the path with your own.
 
 ```bash
 chmod +x ~/.gpg-pinentry-loopback
 ```
 
-4. Set the script as the GPG program for Git. Replace the path with your own (full Windows-style path required).
+5. Set the script as the GPG program for Git. Replace the path with your own (full Windows-style path required).
 
 ```
 git config --global gpg.program "C:/Users/beta/.gpg-pinentry-loopback"
