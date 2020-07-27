@@ -7,21 +7,19 @@ order: 99
 
 正在努力成为独立开发者。兴趣和能力包括：
 
+- 使用 Flutter 开发跨平台移动应用
 - 使用 Python 和 Qt（PySide）开发跨平台桌面应用
 - 使用 JavaScript、Vue 和 React 框架开发 web 应用以及基于 Electron 的桌面应用
 - 使用 Go 开发 web 服务器
-
-此外，我还拥有 Android 原生应用的开发经验（基于 Java），以及使用 Flutter 和 React Native 开发跨平台移动应用的经验。
 
 目前在深圳生活。
 
 I am now working hard to become an indie software developer. I am interested and proficient in:
 
+- developing cross-platform mobile apps with Flutter,
 - developing cross-platform desktop apps with Python and Qt (PySide),
 - developing web apps with JavaScript, Vue and React, as well as desktop apps with Electron, and
 - developing web servers with Go.
-
-Besides, I am also experienced in developing native Android apps with Java, and cross-platform mobile apps with Flutter and React Native.
 
 Currently I live in Shenzhen, China.
 
