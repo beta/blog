@@ -5,7 +5,7 @@ tags:
 ---
 （怎么已经五月了。）
 
-忙里偷闲更新一下博客。四月初辞掉了工作，目前的状态是赋闲在家，在做一些自己想做的项目，想尝试能不能借此机会成为*能养活自己的*独立开发者。（如果赚不到钱的话只能再去找下一份工作，还是要面对现实。）手上在做的项目叫 EasyType，一个跨平台的键盘定制工具，功能上类似 [Karabiner Elements](https://karabiner-elements.pqrs.org/) 或者<del>弱化版的</del> [AutoHotkey](https://www.autohotkey.com/)。想试试能不能通过 Patreon + 付费功能的方式赚到一点钱。
+忙里偷闲更新一下博客。四月初辞掉了工作，目前的状态是赋闲在家，在做一些自己想做的项目。正在做的项目叫 EasyType，一个跨平台的键盘定制工具，功能上类似 [Karabiner Elements](https://karabiner-elements.pqrs.org/) 或者<del>弱化版的</del> [AutoHotkey](https://www.autohotkey.com/)。
 
 除了写代码，还接到了一本书的翻译工作。说实话翻译量还挺大的，一定不能拖稿啊（flag）。另外吐槽一下，目前国内业余翻译市场的报价真是低得可怜，以至于看到价格时我都怀疑自己是不是被骗了。
 
